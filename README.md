@@ -6,6 +6,13 @@ This project explores the design and implementation of a controlled token-based 
 
 Instead of relying on open market trading, the system introduces a structured redemption model where users earn tokens and redeem them through time-based payout tiers. This approach is designed to reduce bot farming, limit whale consolidation, and enforce controlled liquidity.
 
+## Purpose
+
+The purpose of this project is to explore how systems behave under constrained resources and to design mechanisms that improve stability and prevent misuse. 
+
+Through experimentation with liquidity pools, I observed that low-liquidity environments can lead to unstable and unpredictable behavior. This project addresses that issue by introducing a controlled redemption model that regulates how value is extracted over time.
+
+The goal is to demonstrate how applying constraints and incentive-based design can stabilize a system while maintaining user flexibility.
 ---
 
 ## How It Works
